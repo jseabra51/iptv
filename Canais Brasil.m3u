@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="Americano",CBN News
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="",98 Live (Belo Horizonte)
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
